@@ -1,3 +1,4 @@
-# SoftCam_Emu
+# SoftCam_file
 
-NOTE: is compatible only with OScam And Ncam .
+I am trying to keep it updated with AFN & little feeds
+Compatible with Ncam .
